@@ -1,3 +1,3 @@
 # Don't get rusty.
- ![Tabs](/assets/screenshots/tabs.png)
- ![Modal](/assets/screenshots/modal.png)
+ ![Tabs](src/assets/screenshots/tabs.png)
+ ![Modal](src/assets/screenshots/modal.png)
