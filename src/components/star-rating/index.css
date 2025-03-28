@@ -1,0 +1,12 @@
+.star {
+	font-size: 2rem;
+	cursor: pointer;
+}
+
+.star-filled {
+	color: darkred;
+}
+
+.star-hovered {
+	color: lightcoral;
+}
