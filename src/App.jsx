@@ -6,9 +6,11 @@ import RandomColor from "./components/random-color";
 import Slider from "./components/slider";
 import StarRating from "./components/star-rating";
 import ScrollIndicator from "./components/scroll-incicator";
-import { tabsData } from "./components/tabs/tabs-data";
-import Tabs from "./components/tabs";
+// import { tabsData } from "./components/tabs/tabs-data";
+// import Tabs from "./components/tabs";
 import ModalTest from "./components/modal/index-test";
+import GithubProfileFinder from "./components/github-profile-finder";
+import SearchAutocomplete from "./components/search-autocomplete";
 
 
 function App() {
@@ -20,8 +22,10 @@ function App() {
 			{/* {<StarRating stars="5" />} */}
 			{/* <LoadMore /> */}
 			{/* <ScrollIndicator /> */}
-			<Tabs tabs={tabsData} />
+			{/* <Tabs tabs={tabsData} /> */}
 			{/* <ModalTest /> */}
+			{/* <GithubProfileFinder /> */}
+			<SearchAutocomplete />
 		</div>
 	);
 }
